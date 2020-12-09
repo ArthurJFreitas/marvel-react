@@ -80,6 +80,7 @@ export const SubmitButton = styled.i.attrs(props => ({
 export const List = styled.ul`
   list-style: none;
   margin-top: 30px;
+  padding: 15px 15px;
   li {
     display: flex;
     padding: 15px 15px;
