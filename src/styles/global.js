@@ -27,6 +27,7 @@ export default createGlobalStyle`
     background-attachment: fixed;
     background-position: center;
     -webkit-font-smoothing: antialiased !important;
+    background-size: cover;
   }
   body, input, button {
     color: #222;
